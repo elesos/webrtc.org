@@ -9,6 +9,8 @@ class: home
 
 <!-- <img src="{{ site.baseurl }}/assets/images/webrtc-logo-vert-retro-255x305.png" class="pull-right" style="margin-left: 2em; margin-bottom: .5em;"> -->
 
+**This website was built by [elesos.com](http://www.elesos.com/)
+
 **WebRTC is a free, open project** that provides browsers and mobile
 applications with Real-Time Communications (RTC) capabilities via simple APIs.
 The WebRTC components have been optimized to best serve this purpose.
@@ -21,9 +23,9 @@ The WebRTC initiative is a project supported by Google, Mozilla and Opera,
 amongst others. This page is maintained by the Google Chrome team.
 
 **New to WebRTC? Take a look at our [codelab](https://codelabs.developers.google.com/codelabs/webrtc-web).**
+lable from [webrtc.org/start](https://webrtc.org/start).
 
-Lots more resources for getting started are available from [webrtc.org/start](https://webrtc.org/start).
-
+Lots more resources for getting started are avai
 </div>
 
 <div class="row supported">
