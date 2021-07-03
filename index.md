@@ -9,7 +9,7 @@ class: home
 
 <!-- <img src="{{ site.baseurl }}/assets/images/webrtc-logo-vert-retro-255x305.png" class="pull-right" style="margin-left: 2em; margin-bottom: .5em;"> -->
 
-This website was built by  https://elesos.github.io/about/
+This website was built by  **[雷军辉](https://elesos.github.io/about/)**
 
 **WebRTC is a free, open project** that provides browsers and mobile
 applications with Real-Time Communications (RTC) capabilities via simple APIs.
